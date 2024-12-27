@@ -101,11 +101,11 @@ h3{
 }
 
 .shadow{
-    margin: 0%;
+    margin: 40px 0%;
     padding: 0 30px;
     border-radius: 15px;
     background-color: white;
-    box-shadow: 0 2px 2px 3px rgba(190, 190, 190, 0.2), 0 6px 20px rgba(190, 190, 190, 0.2);
+    box-shadow: 0 2px 2px 0 rgba(83, 83, 83, 0.2), 0 6px 20px 0 rgba(63, 62, 62, 0.19);
 }
 
 .grow-img, .flowing-img, .users-img{
@@ -165,7 +165,7 @@ h3{
   }
   
 .footer-svg li{
-    font-size: 16px;
+    font-size: 18px;
     padding: 20px 0;
 }
 
