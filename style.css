@@ -100,7 +100,21 @@ h3{
     padding-top: 50px;
 }
 
+/* SECTION TWO */
+
+.section-two{
+    padding: 20px 0;
+}
+
 .shadow{
+    margin: 45px 0%;
+    padding: 70px 25px 50px 25px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 2px 2px 0 rgba(83, 83, 83, 0.2), 0 6px 20px 0 rgba(63, 62, 62, 0.19);
+}
+
+.shadows{
     margin: 45px 0%;
     padding: 70px 30px 50px 30px;
     border-radius: 15px;
@@ -112,7 +126,11 @@ h3{
     padding-bottom: 40px;
 }
 
-/* FOOTER */
+/* SECTION THREE */
+
+
+
+/* SECTION FOOTER */
 .logo-icon{
     filter: brightness(0) invert(1);
     width: 200px;
