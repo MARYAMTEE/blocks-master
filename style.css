@@ -161,7 +161,7 @@ h4{
 /* SECTION FOOTER */
 .logo-icon{
     filter: brightness(0) invert(1);
-    width: 200px;
+    width: 190px;
 }
 
 .section-footer{
@@ -186,10 +186,6 @@ h4{
     padding: 25px 0;
   }
   
-.social-icons li {
-    margin: 0;
-  }
-  
 .social-icons .icon {
     display: flex;
     justify-content: center;
@@ -211,8 +207,9 @@ h4{
 }
   
 .footer-svg li{
-    padding: 20px 0 0 20px;
+    padding: 25px 0 0 20px;
     font-size: 17px;
+    line-height: 1.7;
 }
 
 .footer-svg svg{
@@ -226,8 +223,9 @@ h4{
 
 .footer-txt{ 
     color: var(--Pale-cyan);
+    font-family: "Poppins", serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
 }
 
