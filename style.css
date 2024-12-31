@@ -79,18 +79,18 @@ h3{
 }
 
 .intro-texts{
-    padding-top: 80px;
+    padding-top: 90px;
 }
 
 .btn-1{
     background-color: var(--Pink);
     border: none;
     border-radius: 100px;
-    color: white;
+    color: var(--Pale-cyan);
     padding: 13px 45px;
     font-family: "Open Sans", sans-serif;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 14px;
     margin: 10px 0;
     letter-spacing: 1px;
     cursor: pointer;
@@ -101,15 +101,15 @@ h3{
 }
 
 .shadow{
-    margin: 40px 0%;
-    padding: 0 30px;
+    margin: 45px 0%;
+    padding: 70px 30px 50px 30px;
     border-radius: 15px;
     background-color: white;
     box-shadow: 0 2px 2px 0 rgba(83, 83, 83, 0.2), 0 6px 20px 0 rgba(63, 62, 62, 0.19);
 }
 
 .grow-img, .flowing-img, .users-img{
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 
 /* FOOTER */
@@ -157,19 +157,19 @@ h3{
     color: white; 
     font-size: 25px; 
     transition: background-color 0.3s ease, color 0.3s ease;
-  }
+}
   
-.social-icons .icon:hover {
+.social-icons .icon:hover { 
     border: 1px solid var(--Pink);
     color: var(--Pink); 
-  }
+}
   
 .footer-svg li{
-    font-size: 18px;
-    padding: 20px 0;
+    padding: 20px 0 0 20px;
 }
 
 .footer-svg svg{
+    margin-left: -20px;
     margin-right: 20px;
 }
 
